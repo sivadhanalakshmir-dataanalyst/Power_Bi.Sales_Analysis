@@ -13,23 +13,23 @@ Key Goals and Findings:
 
      Key Findings:
 
-~ In December, sales reached a peak of 46,13,443.34 accounted for 13.38% of the annual total.
-~ On Mondays, sales led with a sum of 50,87,956.78, which was 5.13% higher than the lowest day, Wednesday.
-~ Interestingly, AAA Batteries (4-pack) dominated quantity orders with 31,017 units, 50.88% more than Wired Headphones.
-~ San Francisco emerged as the top sales performer, with sales totaling 82,62,203.91 higher than Atlanta's lowest sales sum.
+* In December, sales reached a peak of 46,13,443.34 accounted for 13.38% of the annual total.
+* On Mondays, sales led with a sum of 50,87,956.78, which was 5.13% higher than the lowest day, Wednesday.
+* Interestingly, AAA Batteries (4-pack) dominated quantity orders with 31,017 units, 50.88% more than Wired Headphones.
+* San Francisco emerged as the top sales performer, with sales totaling 82,62,203.91 higher than Atlanta's lowest sales sum.
 
 
 Tools Used:
 
-^ Excel - Data cleaning and data preparation
-^ Power BI - Dashboard creation and data analysis    {Live Dashboard}
+* Excel - Data cleaning and data preparation
+* Power BI - Dashboard creation and data analysis    {Live Dashboard}
 
 
 Recommendations:
 
-@ Utilize insights from December's peak sales to inform marketing strategies and promotions, aiming to replicate success in other months.
-@ Implement targeted initiatives on Mondays to capitalize on the day's higher sales volume, potentially through exclusive promotions or product launches.
-@ Focus on promoting AAA Batteries (4-pack) to capitalize on its popularity and capitalize on San Francisco's strong sales performance by allocating additional resources to further penetrate the market.
+* Utilize insights from December's peak sales to inform marketing strategies and promotions, aiming to replicate success in other months.
+* Implement targeted initiatives on Mondays to capitalize on the day's higher sales volume, potentially through exclusive promotions or product launches.
+* Focus on promoting AAA Batteries (4-pack) to capitalize on its popularity and capitalize on San Francisco's strong sales performance by allocating additional resources to further penetrate the market.
 
 
 Conclusion:
