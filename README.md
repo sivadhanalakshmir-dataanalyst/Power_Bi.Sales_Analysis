@@ -22,7 +22,7 @@ Key Goals and Findings:
 Tools Used:
 
 * Excel - Data cleaning and data preparation
-* Power BI - Dashboard creation and data analysis    {Live Dashboard}
+* Power BI - Dashboard creation and data analysis    
 
 
 Recommendations:
